@@ -1,0 +1,1 @@
+# syhomadara.zsh-theme
